@@ -91,8 +91,6 @@ def adding_matz
   }
 
   programmer_hash[yuki]
-end
-programmer_hash
 
 end
 
