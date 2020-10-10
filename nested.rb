@@ -89,6 +89,9 @@ def adding_matz
       :languages => ["LISP", "C"]
     }
   }
+  programmer_hash[yuki]
+end
+programmer_hash
 
 end
 
