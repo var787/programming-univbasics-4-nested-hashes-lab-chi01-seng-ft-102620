@@ -90,7 +90,7 @@ def adding_matz
     }
   }
 
-  programmer_hash<<yuki
+  programmer_hash[yuki]
 
 
 end
